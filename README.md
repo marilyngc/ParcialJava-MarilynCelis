@@ -2,4 +2,4 @@
 
 El archivo es Marilyn.zip
 
-el otro abre 
+el otro NO abre 
