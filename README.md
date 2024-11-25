@@ -1,1 +1,5 @@
-# ParcialJava-MarilynCelis
+# ParcialJava-MarilynCelis 121
+
+El archivo es Marilyn.zip
+
+el otro abre 
